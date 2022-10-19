@@ -7,6 +7,24 @@ table, td, th {
     border: 1px solid darkblue;
     border-collapse: collapse;
 }
+th {
+    background-color: #222;
+    color: #CCC;
+}
+td, th {
+    padding: 10px;
+}
+table {
+    width: 100%;
+}
+hr {
+    margin: 40px 0;
+    border: 5px solid black;
+}
+
+.közép {
+    text-align: center;
+}
 
 div p {
     background-color: aquamarine;
