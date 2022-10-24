@@ -1,0 +1,46 @@
+body {
+    /* background-image: url("szendvics.jpg");
+    background-repeat: repeat-y;
+    background-repeat: no-repeat;
+    background-position: top right; */
+
+    background-image: url("Hatter.png");
+    background-repeat: repeat-y;
+    background-size: 100%;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-decoration: underline;
+}
+.kiemelt {
+    font-style: italic;
+    color: blue;
+}
+.fontos {
+    color: red;
+    font-weight: bold;
+}
+p {
+    
+}
+table {
+     border: 2px solid blue;
+    border-collapse: collapse;
+    background-color: lightgrey;
+}
+td {
+    border: 3px solid blue;
+    padding: 10px;
+}
+
+/* .kep {
+    text-align: center;
+} */
+
+img {
+    width: 400px;
+    display: block;
+    margin: auto;
+}
